@@ -5,6 +5,5 @@ Problems:
 * Elements and Tags
 * HTML Boilerplate
 * Paragraphs, headings, bold, italic
-* Lists
-* Links and images
+* Lists, links and images
 * Git and GitHub basics
